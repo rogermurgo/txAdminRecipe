@@ -1,9 +1,9 @@
 $engine: 3
 $onesync: on
-name: QBCore Framework
+name: Desolados RP (Alfa)
 version: 2.2.4
-author: JericoFx & Kakarot & Hamy
-description: An advanced FiveM RP framework including jobs, gangs, housing & more!
+author: AnKor-iO
+description: Survival RP - Zombies, Crafteos, Contruccion de Vehiculos, Comunidades gratis -
 
 tasks:
   #  Download Base Files
